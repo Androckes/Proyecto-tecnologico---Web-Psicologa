@@ -1,3 +1,4 @@
+import React from 'react'
 import { useEffect, useMemo, useState } from "react";
 import profileImage from "../assets/cinthya-profile.jpg";
 
